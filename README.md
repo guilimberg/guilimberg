@@ -11,6 +11,7 @@ If you are looking for code/data used in any of [my 1st-author papers](https://u
 Contact: guilherme.limberg [at] usp.br
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/guilimberg)
+[<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11275388/guilimberg)
 
 <!--
 **guilimberg/guilimberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
