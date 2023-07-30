@@ -12,6 +12,8 @@ Contact: guilherme.limberg [at] usp.br
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/guilimberg)
 [<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11275388/guilimberg)
+[<img src="https://img.shields.io/badge/SPOTIFY-0EAF55?style=for-the-badge&logo=spotify&logoColor=FFFFFF&color=0EAF55" />](https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c)
+[<img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000" />](https://scholar.google.com/citations?user=WX-kFMgAAAAJ&hl)
 
 <!--
 **guilimberg/guilimberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
