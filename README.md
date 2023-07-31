@@ -1,4 +1,4 @@
-### Hi there, I'm [@guilimberg](https://github.com/guilimberg) 🌿
+### Hi there, I'm [@guilimberg](https://github.com/guilimberg)🌿
 
 I'm an Astronomy final-year PhD student (or 'candidate' in the US terminology) at [@usp](https://github.com/usp).
 
