@@ -1,14 +1,12 @@
 ### Hi there, I'm [@guilimberg](https://github.com/guilimberg)🌿
 
-I'm an Astronomy final-year PhD student (or 'candidate' in the US terminology) at [@usp](https://github.com/usp).
+I got a PhD in Astronomy/Astrophysics from [@usp](https://github.com/usp) and now I am a [KICP Postodoctoral Fellow](https://kavlicosmo.uchicago.edu/kicp-fellowship/) at [@uchicago](@uchicago).
 
 I'm interested in most things Galactic Archaeology, including metal-poor stars, star clusters, stellar substructures (phase mixed, streams, and overdensities), and dwarf galaxies.
 
-For the 2022/23 academic year, I stayed at [@uchicago](https://github.com/uchicago) with the Near-field Cosmology group led by Prof. [@alexji](https://github.com/alexji).
+If you are looking for code/data used in any of [my 1st-author papers](https://ui.adsabs.harvard.edu/public-libraries/5AgJmpNJQ-OgcvUhvd2uxQ), but **can't** find it here, get in touch! The complete analyses for some of my papers were fully coded in Google Collab, so I could even provide the actual notebooks. 
 
-If you are looking for code/data used in any of [my 1st-author papers](https://ui.adsabs.harvard.edu/public-libraries/nyvZ7i7iRTSKxzGj1oVYwg), but **can't** find it here, get in touch! The complete analyses for some of my papers were fully coded in Google Collab, so I could even provide the actual notebooks. 
-
-Contact: guilherme.limberg [at] usp.br
+Contact: limberg [at] uchicago.edu
 
 [<img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=%23FFFFFF" />](https://guilimberg.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/guilimberg)
