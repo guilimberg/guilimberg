@@ -1,4 +1,4 @@
-### Hi there, I'm [@guilimberg](https://github.com/guilimberg)🥭
+### Hi there, I'm [@glimberg](https://github.com/guilimberg)🥭
 
 I got a PhD in Astronomy/Astrophysics from [@usp](https://github.com/usp) and now I am a [KICP Postodoctoral Fellow](https://kavlicosmo.uchicago.edu/kicp-fellowship/) at [@uchicago](@uchicago).
 
